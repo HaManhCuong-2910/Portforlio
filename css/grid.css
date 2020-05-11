@@ -1,0 +1,72 @@
+.grid{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    display: block;
+}
+.wide{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.col-pc{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.col-pc0{
+    display: none;
+}
+.col-pc1{
+    flex: 0 0 8.3334%;
+    width: 8.3334%;
+}
+.col-pc2{
+    flex: 0 0 16.6667%;
+    width: 16.6667%;
+}
+.col-pc3{
+    flex: 0 0 25%;
+    width: 25%;
+}
+.col-pc4{
+    flex: 0 0 33.3334%;
+    width: 33.3334%;
+}
+.col-pc5{
+    flex: 0 0 41.6667%;
+    width: 41.6667%;
+}
+.col-pc6{
+    flex: 0 0 50%;
+    width: 50%;
+}
+.col-pc7{
+    flex: 0 0 58.3334%;
+    width: 58.3334%;
+}
+.col-pc8{
+    flex: 0 0 66.6667%;
+    width: 66.6667%;
+}
+.col-pc9{
+    flex: 0 0 75%;
+    width: 75%;
+}
+.col-pc10{
+    flex: 0 0 83.3334%;
+    width: 83.3334%;
+}
+.col-pc11{
+    flex: 0 0 91.6667%;
+    width: 91.6667%;
+}
+.col-pc12{
+    flex: 0 0 100%;
+    width: 100%;
+}

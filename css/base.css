@@ -1,0 +1,13 @@
+:root{
+    --text-color: #000000;
+    --circal-color: #ff3e3e;
+    --text-secondarycolor: #999999;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Livvic', sans-serif;
+}
