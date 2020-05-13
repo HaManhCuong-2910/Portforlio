@@ -167,7 +167,6 @@
 }
 .longhoangnav{
     position: relative;
-    position: fixed;
     bottom: 0;
     display: flex;
     width: 100%;
@@ -208,7 +207,6 @@
 .longhoangnav-brand{
     position: absolute;
     left: 50%;
-    /* transform: translateX(-50%); */
     align-self: center;
     font-size: 0.8rem;
 }
